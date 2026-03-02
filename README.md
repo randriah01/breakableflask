@@ -51,3 +51,6 @@ On launch breakableflask will attempt to populate the database server with the n
 If you are using an Oracle database, you need to provide the location of the Oracle client libraries (as installed with the Oracle instant Client or full database) using the `oracle_lib_dir` option.
 
 Given that one of the reasons for this programs existence is to provide a test bed that is as easy as possible to run, there are included instructions in `docker_database_setup.md` file that will help you easily start up an instance of the various supported database types in Docker. 
+## SonarQube Test
+Modification pour déclencher le workflow GitHub Actions.
+
